@@ -1,0 +1,63 @@
+{
+    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+    // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch mechanic",
+            "request": "launch",
+            "mainClass": "sample.mechanic",
+            "projectName": "Ayana_395b892"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Mechanic",
+            "request": "launch",
+            "mainClass": "sample.Mechanic",
+            "projectName": "Ayana_395b892"
+        },
+        {
+            "type": "java",
+            "name": "Launch auth",
+            "request": "launch",
+            "mainClass": "sample.auth",
+            "projectName": "Ayana_395b892"
+        },
+        {
+            "type": "java",
+            "name": "Launch director",
+            "request": "launch",
+            "mainClass": "sample.director",
+            "projectName": "Ayana_395b892"
+        },
+        {
+            "type": "java",
+            "name": "Launch registration",
+            "request": "launch",
+            "mainClass": "sample.registration",
+            "projectName": "Ayana_395b892"
+        },
+        {
+            "type": "java",
+            "name": "Launch seller",
+            "request": "launch",
+            "mainClass": "sample.seller",
+            "projectName": "Ayana_395b892"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "sample.test",
+            "projectName": "Ayana_395b892"
+        }
+    ]
+}
