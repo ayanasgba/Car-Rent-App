@@ -1,4 +1,4 @@
-# 🚗 CarRent
+# 🚗 Car Rent
 
 CarRent is a simple Java-based car rental management system, developed as a university coursework project. It helps manage customers, vehicles, and rental processes using CSV file storage.
 
