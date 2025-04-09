@@ -13,12 +13,6 @@ CarRent is a simple Java-based car rental management system, developed as a univ
 
 ---
 
-## 📁 Project Structure
-
-carRent/ ├── .vscode/ # VS Code configuration ├── bin/sample/ # Compiled .class files ├── src/sample/ # Java source code ├── account_data.csv # Customer data ├── allcars.csv # All cars ├── in_service.csv # Cars in service ├── returned_cars.csv # Returned rentals ├── served_cars.csv # Completed service records ├── sold_cars.csv # Sold vehicles
-
----
-
 ## 🛠️ Technologies
 
 - **Language:** Java  
